@@ -18,7 +18,7 @@ test_screenpipe_audio_devices.sh is a Bash script designed to automate the proce
 * Successful recordings are saved in the recordings directory with filenames based on the device identifiers.
 * A text file containing the device name is created alongside each recording.
 
-** How to Use**
+**How to Use**
 
 * Ensure screenpipe is executable and available in the current directory.
 * Download or copy the test_screenpipe_audio_devices.sh script to your local machine.
