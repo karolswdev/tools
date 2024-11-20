@@ -35,5 +35,4 @@ copy_to_clipboard() {
     echo "✅ Directory contents copied to clipboard!"
 }
 
-alias copydirclip='copy_to_clipboard'
-
+copy_to_clipboard "$@"
